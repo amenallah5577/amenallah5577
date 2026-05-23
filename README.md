@@ -44,5 +44,5 @@ Internship opportunities in:
 
 ## 📫 Contact
 
-LinkedIn: your-linkedin-link  
+LinkedIn:https://www.linkedin.com/in/amen-allah-jbali-1b4027411
 GitHub: https://github.com/amenallah5577
