@@ -4,6 +4,12 @@ I'm a Computer Science student at ISI Kef focused on full-stack development, AI-
 
 ## 🚀 Main Projects
 
+### [U-Mail](https://github.com/amenallah5577/u-mail)
+
+An internal mailbox platform built for UTICA Jendouba, featuring threaded conversations, private attachments, and administrator-approved onboarding. Includes U-Assist, a local Llama 3.2 assistant for mailbox search, thread summaries, and reply drafts.
+
+Tech: Laravel, PHP, MySQL, Blade, Tailwind CSS, Ollama / Llama 3.2
+
 ### [Skilli](https://github.com/amenallah5577/Skilli)
 
 A full-stack skill-exchange platform for students with authentication, booking, chat, points, reviews, and Supabase backend.
