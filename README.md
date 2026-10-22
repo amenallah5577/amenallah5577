@@ -4,7 +4,8 @@ I'm a Computer Science student at ISI Kef focused on full-stack development, AI-
 
 ## Experience
 
-**Software Engineering Intern — MajestEYE, Tunisia**  
+**Software Engineering Intern — MajestEYE, Tunisia**
+
 1 June – 1 July 2026
 
 Worked on U-Mail for UTICA Jendouba, building U-Assist with local Llama 3.2 for mailbox search, thread summaries, and reply drafts. Implemented employee onboarding, role-based access, and private mailbox features.
