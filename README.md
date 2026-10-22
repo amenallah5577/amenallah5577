@@ -24,17 +24,23 @@ A full-stack skill-exchange platform for students with authentication, booking, 
 
 Tech: Next.js, TypeScript, Tailwind CSS, Supabase, PostgreSQL, Vercel
 
+[Live demo](https://skilli-two.vercel.app)
+
 ### [EchoSphere](https://github.com/amenallah5577/EchoSphere)
 
 An AI research workspace that helps users generate structured research from web searches and uploaded PDFs.
 
 Tech: Node.js, Express, MongoDB, Clerk, Groq, Tavily
 
+[Live demo](https://ecosphere-hty6.onrender.com)
+
 ### [Project Restaurant](https://github.com/amenallah5577/project-restaurant)
 
 A restaurant reservation and admin dashboard system with menu management, authentication, and email features.
 
 Tech: Node.js, Express, JWT, SQL.js, Nodemailer, HTML, CSS, JavaScript
+
+[Live demo](https://project-restaurant-tn.netlify.app/)
 
 ### [ISI Connect](https://github.com/amenallah5577/isi-connect)
 
@@ -58,5 +64,5 @@ Internship opportunities in:
 
 ## 📫 Contact
 
-LinkedIn:https://www.linkedin.com/in/amen-allah-jbali-1b4027411
-GitHub: https://github.com/amenallah5577
+- [LinkedIn — Amen Allah Jbali](https://www.linkedin.com/in/amen-allah-jbali-1b4027411)
+- [GitHub — amenallah5577](https://github.com/amenallah5577)
