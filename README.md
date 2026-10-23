@@ -18,7 +18,7 @@ An internal mailbox platform built for UTICA Jendouba, featuring threaded conver
 
 Tech: Laravel, PHP, MySQL, Blade, Tailwind CSS, Ollama / Llama 3.2
 
-[Architecture and 90-second walkthrough](https://github.com/amenallah5577/u-mail/tree/security/remove-password-registry/docs) · [Security and test changes](https://github.com/amenallah5577/u-mail/pull/1)
+[Architecture and 90-second walkthrough](https://github.com/amenallah5577/u-mail/tree/main/docs) · [Security and test changes](https://github.com/amenallah5577/u-mail/pull/1)
 
 ### [Skilli](https://github.com/amenallah5577/Skilli)
 
@@ -34,7 +34,7 @@ An AI research workspace that helps users generate structured research from web 
 
 Tech: Node.js, Express, MongoDB, Clerk, Groq, Tavily
 
-[Evaluation and findings](https://github.com/amenallah5577/EchoSphere/tree/eval/reproducible-quality-benchmark/eval/results/local-llama32-2026-10-23) — local-model comparison on synthetic sources.
+[Evaluation and findings](https://github.com/amenallah5577/EchoSphere/tree/main/eval/results/local-llama32-2026-10-23) — local-model comparison on synthetic sources.
 
 ### [Project Restaurant](https://github.com/amenallah5577/project-restaurant)
 
@@ -42,7 +42,7 @@ A restaurant reservation and admin dashboard system with menu management, authen
 
 Tech: Node.js, Express, JWT, SQL.js, Nodemailer, HTML, CSS, JavaScript
 
-The public static site does not include the reservation API; [repository setup instructions](https://github.com/amenallah5577/project-restaurant/blob/engineering/reservation-tests-and-setup/docs/engineering.md) cover the full workflow.
+The public static site does not include the reservation API; [repository setup instructions](https://github.com/amenallah5577/project-restaurant/blob/main/docs/engineering.md) cover the full workflow.
 
 ### [ISI Connect](https://github.com/amenallah5577/isi-connect)
 
