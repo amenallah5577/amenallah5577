@@ -20,14 +20,6 @@ Tech: Laravel, PHP, MySQL, Blade, Tailwind CSS, Ollama / Llama 3.2
 
 [Architecture and 90-second walkthrough](https://github.com/amenallah5577/u-mail/tree/main/docs) · [Security and test changes](https://github.com/amenallah5577/u-mail/pull/1)
 
-### [Skilli](https://github.com/amenallah5577/Skilli)
-
-A full-stack skill-exchange platform for students with authentication, booking, chat, points, reviews, and Supabase backend.
-
-Tech: Next.js, TypeScript, Tailwind CSS, Supabase, PostgreSQL, Vercel
-
-[Live site](https://skilli-two.vercel.app) — homepage verified; sign-in requires a Gmail account.
-
 ### [EchoSphere](https://github.com/amenallah5577/EchoSphere)
 
 An AI research workspace that helps users generate structured research from web searches and uploaded PDFs.
@@ -35,6 +27,14 @@ An AI research workspace that helps users generate structured research from web 
 Tech: Node.js, Express, MongoDB, Clerk, Groq, Tavily
 
 [Evaluation and findings](https://github.com/amenallah5577/EchoSphere/tree/main/eval/results/local-llama32-2026-10-23) — local-model comparison on synthetic sources.
+
+### [Skilli](https://github.com/amenallah5577/Skilli)
+
+A full-stack skill-exchange platform for students with authentication, booking, chat, points, reviews, and Supabase backend.
+
+Tech: Next.js, TypeScript, Tailwind CSS, Supabase, PostgreSQL, Vercel
+
+[Live site](https://skilli-two.vercel.app) — homepage verified; sign-in requires a Gmail account.
 
 ### [Project Restaurant](https://github.com/amenallah5577/project-restaurant)
 
